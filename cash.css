@@ -1,0 +1,12 @@
+body {
+    /* display: flex; */
+    background: tomato;
+    font-size: 50;
+    text-align: center;
+}
+
+#dollarAmount {
+    height: 50px;
+    width: 400px;
+    font-size: 1em;
+}
